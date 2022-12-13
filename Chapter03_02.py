@@ -56,7 +56,7 @@ print(any_str)
 
 # 문자열 연산
 
-str_01 = 'apple'
+str_01 = 'ap p le'
 str_02 = 'Python'
 
 print(str_01+str_02)

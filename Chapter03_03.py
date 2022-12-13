@@ -40,7 +40,7 @@ print(a)
 print(a.index(3))
 a.insert(2,7)
 print(a)
-del a[6]
+del a[6] 
 a.remove(10) # 제거할 값을 넣음
 print(a)
 a.pop()
@@ -58,4 +58,4 @@ while a:
 
 
 
- # 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
+ # 

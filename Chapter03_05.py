@@ -50,7 +50,7 @@ print(dic_1)
 dic_6 = dict(
         name = 'junsoo',
         age = 20,
-        belonging = 'roakf',
+        belonging = 'roakf', 
         team = 3,
         members = 5
 )

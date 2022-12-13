@@ -9,7 +9,7 @@
 t1 = 1,2,3 # 괄호 생략가능
 t2 = (2,3,4)
 t3 = (2,3,('python','inflearn','army'),'python')
-
+ 
 # 인덱싱
 
 print(t1[0])
