@@ -67,6 +67,44 @@ for n in name:
     else:
         print(n.upper())
         
-# break , continue 문
+# break 
 
-# 2번째 7분
+numbers = [14,24,142,25,6,5,34,4,7,73,3,41,6]
+
+for num in numbers:
+    if num ==34:
+        print('Found: ',34)
+        break                 # 구지 마지막까지 search 할 필요 x
+    else:
+        print('Not Found', num)
+        
+
+# continue
+
+lt=  ['1',2,5,True,20,complex(4)]
+
+for v in lt:
+    if type(v) is bool:
+        continue
+    print("current type", type(v))
+
+    
+# for ~ else 마지막에 필요한 것
+
+numbers = [14,23,142,25,6,5,34,4,7,73,3,41,6]
+
+for num in numbers:
+    if num == 24:
+        print('Found: ',24)
+        break
+else:
+    print("Not Found : 24") # 마지막에 못찾으면 못찾았다고 한번 넣어주는 용도로 사용됨 + 찾으면 break문으로 else는 실행되지 않음
+    
+    
+# 변환 예제
+
+name2 = 'niceman'
+
+print('Reversed',reversed(name2))
+print('list',list(reversed(name2)))
+print('tuple',tuple(reversed(name2)))

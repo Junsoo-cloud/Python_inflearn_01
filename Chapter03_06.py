@@ -52,4 +52,4 @@ s1.discard(8) # 에러가 발생하지 않음 !!
 s1.clear()
 print(s1)
 
-# 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
+# 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
