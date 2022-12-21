@@ -5,7 +5,7 @@
 # Class vs instance 차이 이해
 # 인스턴스 변수 : 객체마다 별도 존재
 # 클래스 변수 : 직접 접근 가능 , 공유함
-# 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
+# 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
 
 # 예제1
 
@@ -106,7 +106,7 @@ class Dog: # object 상속
         self.age = age
     
     def info(self):
-        return '{} is {} years old'.format(self.name, self.age)
+        return '{0} is {1} years old'.format(self.name, self.age)
     
     def sleap(self,time):
         return '{} time sleap'.format(time)
