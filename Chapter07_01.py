@@ -125,6 +125,6 @@ try:
     else:
         raise ValueError
 except ValueError:
-    print('Occured! Exception')
+    print('Occured Exception!')
 else:
     print('Ok else!')
