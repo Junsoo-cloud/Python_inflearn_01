@@ -119,7 +119,7 @@ print()
 # raise 키워드로 예외 직접 발생
 
 try:
-    a = 'Pak'
+    a = 'Pak' 
     if a == 'Park':
         print('Ok Pass')
     else:

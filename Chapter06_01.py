@@ -22,7 +22,7 @@ print(Dog)
 
 dog_1 = Dog('bori', 2)
 dog_2 = Dog('mikky',1)
-dog_3 = Dog('mikky',1)
+dog_3 = Dog('mikky',1) 
         
 # 비교
 print(dog_1 == dog_3 ,id(dog_1),id(dog_3)) # 인스턴스화 시킨 것들은 모두 id값이 다르다 ++ 다른 객체 !

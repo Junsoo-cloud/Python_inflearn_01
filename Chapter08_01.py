@@ -87,6 +87,6 @@ print(sum(range(1,101,2)))
 
 print(type([1,-3,2,0,-5,6]))
 
-# zip : Iterable한 객체의 요소를 묶어서 반환
+# zip : Iterable한 객체의 요소를 묶어서 반환 
 
 print(list(zip([10,20,30],[20,30,40])))
