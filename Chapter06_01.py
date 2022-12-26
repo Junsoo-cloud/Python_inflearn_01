@@ -5,7 +5,7 @@
 # Class vs instance 차이 이해
 # 인스턴스 변수 : 객체마다 별도 존재
 # 클래스 변수 : 직접 접근 가능 , 공유함
-# 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
+# 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
 
 # 예제1
 
