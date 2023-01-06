@@ -1,0 +1,17 @@
+- How does Internet works?
+
+- Data send way
+1. satelite -> latency
+2. optical fiber cables (from Data Center) -> all around the world (divided 6 bits )
+
+* Send
+
+- IP Address(uniquly identify)
+
+- Domain Name (ex. youtube.com) -> hard to noice all IP Address
+
+- DNS server -> 1. Enter Domain name -> request to the DNS Server -> Getting IP Address -> request to Data Center (from optical fiber cables)
+
+- Protocol -> TCP / IP / https / http / RTP (control)
+
+
