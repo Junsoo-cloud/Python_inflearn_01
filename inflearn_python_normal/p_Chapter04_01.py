@@ -5,8 +5,7 @@
 # Flat : 단일 자료형 ([str, bytes, bytearray, array.array, memoryview])
 # Mutable : (list, bytearray, array.array, memoryviewm deque)
 # Immutable : (int, float, bool, tuple, str, bytes)
-
-
+# Udemy & Coursera <- 강의 사이트 
 
 # python Bulit-in function 복슴
 # enumerate , map, zip, filter
